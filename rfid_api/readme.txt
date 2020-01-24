@@ -1,0 +1,17 @@
+Package        Version
+-------------- -------
+aniso8601      8.0.0  
+Click          7.0    
+Flask          1.1.1  
+Flask-Jsonpify 1.5.0  
+Flask-RESTful  0.3.7  
+itsdangerous   1.1.0  
+Jinja2         2.10.3 
+MarkupSafe     1.1.1  
+pip            19.3.1 
+pyscard        1.9.9  
+pytz           2019.3 
+setuptools     42.0.2 
+six            1.13.0 
+Werkzeug       0.16.0 
+wheel          0.33.6 
